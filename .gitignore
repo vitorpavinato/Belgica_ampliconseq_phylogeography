@@ -10,10 +10,12 @@ AmpliconSeq/doc/fluidigm_belgica_5866AAP15T1/*.pdf
 AmpliconSeq/markerValidation
 AmpliconSeq/results
 AmpliconSeq/src
+AmpliconSeq/raw/
 WGS/.DS_Store
 WGS/comparativePipelines
 WGS/data
 WGS/raw
+WGS/results/
 WGS/markerDiscovery/.DS_Store
 WGS/markerDiscovery/bin
 WGS/markerDiscovery/data
@@ -26,3 +28,4 @@ WGS/markerDiscovery/src/.DS_Store
 WGS/markerDiscovery/src/bashscripts
 WGS/markerDiscovery/src/HDplot
 WGS/markerDiscovery/src/Rscripts
+.Rproj.user
