@@ -1,4 +1,5 @@
 .DS_Store
+.Rproj.user
 doc
 AmpliconSeq/.DS_Store
 AmpliconSeq/data
@@ -25,7 +26,4 @@ WGS/markerDiscovery/.Rproj.user/*
 WGS/markerDiscovery/results
 WGS/markerDiscovery/sample.txt
 WGS/markerDiscovery/src/.DS_Store
-WGS/markerDiscovery/src/bashscripts
-WGS/markerDiscovery/src/HDplot
-WGS/markerDiscovery/src/Rscripts
-.Rproj.user
+WGS/markerDiscovery/src/extras
