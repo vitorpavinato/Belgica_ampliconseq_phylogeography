@@ -3,12 +3,12 @@
 doc
 AmpliconSeq/.DS_Store
 AmpliconSeq/data
+AmpliconSeq/doc/ampliconseq_information.ods
 AmpliconSeq/doc/figure
 AmpliconSeq/doc/Manuscripts
 AmpliconSeq/doc/fluidigm_belgica_5866AAP15T1/Fluidigm_design_plate-layout_Belgica__5866AAP15T1_P01.xls
 AmpliconSeq/doc/fluidigm_belgica_5866AAP15T1/Fluidigm_design_sheet_Belgica_5866AAP15T1.xls
 AmpliconSeq/doc/fluidigm_belgica_5866AAP15T1/*.pdf
-AmpliconSeq/markerValidation
 AmpliconSeq/raw/
 AmpliconSeq/results/blast_validation
 AmpliconSeq/results/primer_count/.~lock.primer_count_amplicon_sample.ods#
@@ -21,6 +21,8 @@ AmpliconSeq/results/rawReads_count/batch2hq_read_counts_SE.txt
 AmpliconSeq/results/rawReads_count/batch2lq_read_counts_SE.txt
 AmpliconSeq/results/rawReads_count/raw_read_coverage.ods
 AmpliconSeq/src
+AmpliconSeq/pipeline1_PypeAmplicon
+AmpliconSeq/pipeline2_simplePipeline
 WGS/.DS_Store
 WGS/comparativePipelines
 WGS/data
