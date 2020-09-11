@@ -26,6 +26,7 @@ AmpliconSeq/pipeline2_simplePipeline/data
 AmpliconSeq/pipeline2_simplePipeline/results
 AmpliconSeq/pipeline2_simplePipeline/pipeline2_simplePipeline.Rproj
 AmpliconSeq/pipeline2_simplePipeline/.DS_Store
+AmpliconSeq/pipeline2_simplePipeline/src/HDplot/
 WGS/.DS_Store
 WGS/comparativePipelines
 WGS/data
