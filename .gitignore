@@ -22,7 +22,10 @@ AmpliconSeq/results/rawReads_count/batch2lq_read_counts_SE.txt
 AmpliconSeq/results/rawReads_count/raw_read_coverage.ods
 AmpliconSeq/src
 AmpliconSeq/pipeline1_PypeAmplicon
-AmpliconSeq/pipeline2_simplePipeline
+AmpliconSeq/pipeline2_simplePipeline/data
+AmpliconSeq/pipeline2_simplePipeline/results
+AmpliconSeq/pipeline2_simplePipeline/pipeline2_simplePipeline.Rproj
+AmpliconSeq/pipeline2_simplePipeline/.DS_Store
 WGS/.DS_Store
 WGS/comparativePipelines
 WGS/data
