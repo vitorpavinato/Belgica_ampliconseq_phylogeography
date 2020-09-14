@@ -27,8 +27,7 @@ AmpliconSeq/pipeline1_PypeAmplicon/src/
 AmpliconSeq/pipeline1_PypeAmplicon/results
 AmpliconSeq/pipeline1_PypeAmplicon/data/FASTA
 AmpliconSeq/pipeline1_PypeAmplicon/data/bedfiles
-AmpliconSeq/pipeline1_PypeAmplicon/data/reference/.DS_Store
-AmpliconSeq/pipeline1_PypeAmplicon/data/reference/old_reference
+AmpliconSeq/pipeline1_PypeAmplicon/data/old_reference
 AmpliconSeq/pipeline2_simplePipeline/data
 AmpliconSeq/pipeline2_simplePipeline/results
 AmpliconSeq/pipeline2_simplePipeline/pipeline2_simplePipeline.Rproj
