@@ -1,4 +1,4 @@
-# Belgica antarctica Amplicon-seq phylogegraphy
+# Belgica antarctica Amplicon-seq phylogeography
 
 This repository contains additional supplementary material of the manuscript:
 Genetic history, structure and gene flow among populations of *Belgica antarctica*, the only free-living insect in the western Antarctic Peninsula.
